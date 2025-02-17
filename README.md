@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arshani</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">Undergraduate Software Engineering student passionate about building innovative and impactful solutions. Exploring various technologies and eager to contribute to open-source projects. Always learning and looking for new opportunities to grow.  Let's connect!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshani9912&label=Profile%20views&color=0e75b6&style=flat" alt="arshani9912" /> </p>
 
