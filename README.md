@@ -6,11 +6,6 @@
 
 <h3 align="center">I'm an undergraduate Software Engineering student & passionate about building innovative and impactful solutions. Let's connect!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arshani9912&label=Profile%20views&color=0e75b6&style=flat" alt="arshani9912" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshani9912" alt="arshani9912" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/arshani129" target="blank"><img src="https://img.shields.io/twitter/follow/arshani129?logo=twitter&style=for-the-badge" alt="arshani129" /></a> </p>
 
 
 
