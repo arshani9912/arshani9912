@@ -2,6 +2,8 @@
 
 <h1 align="center">Hey, I'm Arshani</h1>
 
+---
+
 <h3 align="center">I'm an undergraduate Software Engineering student & passionate about building innovative and impactful solutions. Let's connect!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshani9912&label=Profile%20views&color=0e75b6&style=flat" alt="arshani9912" /> </p>
